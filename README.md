@@ -34,6 +34,10 @@ This project is a part of the Technology Ambassador Program ([TAP](https://www.g
 3.GCPS career event - Explore Your Future with Career & Technical Education by Gwinnett County Public School System
   Date: October 15, 2022 from 9-1PM 
   Location: Discovery High School 
+1. TAP Expo, 2022, GGC - To promote IT field and TAP program to GGC students
+2. Atlanta Science Festival, March 23 2024, Peidmont Park, Atlanta - Participants of varous age groups from 6 to 50 years old
+3. Super Saturday Series (S3), April 13, 2024, GGC - middle and highschool boy to attract interest in STEM and IT field
+4. Classroom Workshops - April 2024 - promote IT field to non-technical GGC college students
 
 ## Similar Project
 Fruit Rain (link here)
