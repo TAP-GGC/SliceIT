@@ -22,7 +22,7 @@ This project is a part of the Technology Ambassador Program ([TAP](https://www.g
 - Dr. Xin Xu
 
 ## Team Photo
-<img alt="Team Photo" src="https://github.com/TAP-GGC/FruitNinja/blob/main/image_2024-05-28_155937933.png" width="500">
+<img alt="Team Photo" src="https://github.com/TAP-GGC/FruitNinja/blob/main/media/image_2024-05-28_155937933.png" width="500">
 
 ## Publications
 
@@ -33,7 +33,7 @@ This project is a part of the Technology Ambassador Program ([TAP](https://www.g
 3. Classroom Workshops - October 2022 - promote IT field to non-technical GGC college students
 
 ## Similar Project
-Fruit Rain (link here)
+https://github.com/TAP-GGC/FruitRain
 
 ## Technology
 Unity Game Engine - Please click the link [here](https://Unity.com/games) to learn more about the Unity Game Engine.
