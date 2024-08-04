@@ -33,7 +33,7 @@ This project is a part of the Technology Ambassador Program ([TAP](https://www.g
 3. Classroom Workshops - October 2022 - promote IT field to non-technical GGC college students
 
 ## Similar Project
-Fruit Rain (link here)
+https://github.com/TAP-GGC/FruitRain
 
 ## Technology
 Unity Game Engine - Please click the link [here](https://Unity.com/games) to learn more about the Unity Game Engine.
