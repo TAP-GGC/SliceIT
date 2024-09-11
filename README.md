@@ -22,7 +22,7 @@ This project is a part of the Technology Ambassador Program ([TAP](https://www.g
 - Dr. Xin Xu
 
 ## Team Photo
-<img alt="Team Photo" src="https://github.com/TAP-GGC/FruitNinja/blob/main/media/image_2024-05-28_155937933.png" width="500">
+<img alt="Team Photo" src="https://github.com/TAP-GGC/FruitNinja/blob/main/media/image_2024-05-28_155937933.png](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/image_2024-05-28_155937933.png" width="500">
 
 ## Publications
 
@@ -40,10 +40,16 @@ Unity Game Engine - Please click the link [here](https://Unity.com/games) to lea
 Visual Code Studio - 
 
 ## Project Setup
-**Install Unity Game Engine**
-
-**Download and Open Project Game**
-
-**Download the Worksheet**
+[Project Setup](https://github.com/TAP-GGC/FruitNinja/blob/main/Documents/Slice%20IT%20Project%20Setup.pdf)
 
 ## Short Demo Instructions
+[Slice IT Demo Instructions](https://github.com/TAP-GGC/FruitNinja/blob/main/Documents/Slice%20IT%20Demo%20Instructions.pdf)
+
+## Workshop Instructions
+
+## Project Videos
+[Slice IT Demo](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Slice%20IT%20Demo.mp4)
+[Slice IT Website](https://tap-project-fall-2022.github.io/Slice-IT/Slice%20IT!%20Website/workshop-page.html)
+[Unity Hub Installation](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Unity%20Hub%20Installation%20Video.mp4)
+[Slice IT Project Installation](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Slice%20IT%20project%20installation.mp4)
+
