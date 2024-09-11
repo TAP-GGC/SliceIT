@@ -48,8 +48,8 @@ Visual Code Studio -
 ## Workshop Instructions
 
 ## Project Videos
-[Slice IT Demo](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Slice%20IT%20Demo.mp4)
-[Slice IT Website](https://tap-project-fall-2022.github.io/Slice-IT/Slice%20IT!%20Website/workshop-page.html)
-[Unity Hub Installation](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Unity%20Hub%20Installation%20Video.mp4)
-[Slice IT Project Installation](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Slice%20IT%20project%20installation.mp4)
+- [Slice IT Demo](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Slice%20IT%20Demo.mp4)
+- [Slice IT Website](https://tap-project-fall-2022.github.io/Slice-IT/Slice%20IT!%20Website/workshop-page.html)
+- [Unity Hub Installation](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Unity%20Hub%20Installation%20Video.mp4)
+- [Slice IT Project Installation](https://github.com/TAP-GGC/FruitNinja/blob/main/Media/Slice%20IT%20project%20installation.mp4)
 
