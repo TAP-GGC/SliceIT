@@ -1,5 +1,5 @@
 # Fruit Ninja
-# Illustrating Stem Concepts Using Unity's Game Engine
+# Illustrating Stem Concepts utilizing Unity's Game Engine
 ## About 
 This project is a part of the Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) Fall 2022 at Georgia Gwinnett College. This project leverages the power of the Unity Game Engine to impart programming principles to individuals with limited or no prior coding experience, extending a welcoming hand to newcomers in both coding and the broader realm of IT. Through engaging learning modules and innovative experiences with cutting-edge technology, this project aims to ignite a passion for discovery and learning within each participant, fostering a deeper appreciation for the vast potential of the IT sector.
 ## Description
