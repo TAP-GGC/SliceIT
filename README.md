@@ -6,8 +6,8 @@ This project is a part of the Technology Ambassador Program ([TAP](https://www.g
 1. Difficult Level: Hard
 2. Target Audience: 6th Grade to College.
 3.  Duration of workshop: 45 to 60 minutes.
-4.  Needed materials: Unity Game Engine and Unity Game Engine Hub.
-5.   Learning outcomes: This project aims to create engaging hands-on learning activities using the Unity game engine to demonstrate STEM concepts and logical expressions. Through various outreach activities, this project works toward attracting more students to enroll in the IT field as their future career.
+4.  Needed materials: Unity Hub and Unity Game Engine.
+5.  Learning outcomes: This project aims to create engaging hands-on learning activities using the Unity game engine to demonstrate STEM concepts and logical expressions. Through various outreach activities, this project works toward attracting more students to enroll in the IT field as their future career.
 6.  Workshop description: Students will be introduced to the boolean concept utilizing in-game assests as mini tests. Then, students will be introduced to the Fruit Ninja website where they will be able to play the game. Following this, students will be taken through a step-by-step guide on how to create their own level.
 7.  The Technology Ambassador Program [TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) is a group-based program that Georgia Gwinnett College enlists to spread technological information to individuals who are hesitate to take the initiative step to learn about technology. TAP students design and conduct various engaging projects utilizing diverse technology,  empowering participants to get involved in IT field.
 8. Slice IT project Teaser Video (upload AD video here within real github)
