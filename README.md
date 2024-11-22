@@ -86,7 +86,7 @@ If you're interested in more workshops that utilize Unity, check out [Little Sma
 * Unity was chosen because of its user-friendly interface and powerful tools, making it perfect for creating the game’s simple mechanics and minimalist design. Despite its simplicity, the game includes a slight challenge to engage players, which Unity’s versatility made easy to implement.
 
 <p align="center">
-<img src = "https://github.com/TAP-GGC/Little-Smash-Guys/blob/aba3ae748cee3e8701e9f572e8676b8b5a1751a0/media/technology/little%20smash%20guys%20gameplay.png" width ="400" height="200">
+<img src = "https://github.com/TAP-GGC/SliceIT/blob/56a4d40c22d0d94341b7f7fa4420bdf9f34e8221/Media/SliceITgameplay.png" width ="400" height="200">
 </p>
 
 ## Project Setup/Installation 
