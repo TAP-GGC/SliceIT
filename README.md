@@ -70,7 +70,10 @@ Participants begin the workshop by playing Slice IT!, a fast-paced game where pl
 ## :open_hands: Outreach
 
 1. <b>TAP Expo</b>, Fall, 2022, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, October 2022, Georgia Gwinnett College: to promote the IT field to non-IT students.
+2. <b>GCPS Career Event</b>, October 2022, Discovery High School: to promote the IT field to non-IT students.
+3. <b>Class Workshops</b>, October 2022, Georgia Gwinnett College: to promote the IT field to non-IT students.
+4. <b>Code Ninjas Demo</b>, November 2022, Code Ninjas Snellville: to promote the IT field to young students.
+
 
 ## :mag_right: Similar Projects
 If you're interested in more workshops that utilize Unity, check out [Little Smash Guys](https://github.com/TAP-GGC/Little-Smash-Guys)!
